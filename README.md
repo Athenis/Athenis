@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music, Crypto, Auto-Moto...
 - 🌱 I’m currently learning Sales Developpement
 - 💞️ I’m looking to collaborate with an interesting company
-- 📫 How to reach me mail, phone or face to face I am avalable
+- 📫  Reach me by mail, phone or face to face I am avalable
 
 <!---
 Athenis/Athenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
